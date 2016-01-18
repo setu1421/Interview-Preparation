@@ -1,13 +1,17 @@
-##Credits
+##Contributors
+* [[Setu Basak][k_2]]
 * [[Kaidul Islam][k_1]]
 
 [k_1]: https://github.com/Kaidul
+[k_2]: https://bd.linkedin.com/in/setu1421
 
 
 ### Contents
 
 * [Practice Links](#practice links)
 * [Articles](#articles)
+* [Tutorials](#tutorials)
+   * [Algorithm](#algo)
 * [Algorithms](#algorithms)
 * [Coding](#coding)
 * [Guides](#guides)
@@ -67,6 +71,12 @@ Recommended: Steve Yegge – **Get That Job at Google** [[web][a_sy]]
 [a_sy2]: http://steve-yegge.blogspot.co.uk/2007_09_01_archive.html
 [a_tf]: http://mobile.nytimes.com/2014/02/23/opinion/sunday/friedman-how-to-get-a-job-at-google.html
 [a_tf2]: http://mobile.nytimes.com/2014/04/20/opinion/sunday/friedman-how-to-get-a-job-at-google-part-2.html
+
+## Tutorials
+
+### Algo
+
+* [Ideserve](http://www.ideserve.co.in/)
 
 
 ## Algorithms
