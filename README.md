@@ -2,7 +2,7 @@
 * [[Setu Basak][k_2]]
 * [[Kaidul Islam][k_1]]
 
-[k_1]: https://github.com/Kaidul
+[k_1]: https://www.linkedin.com/in/kaidul-islam-81738854
 [k_2]: https://bd.linkedin.com/in/setu1421
 
 
