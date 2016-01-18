@@ -1,7 +1,12 @@
+##Credits
+* [[Kaidul Islam][k_1]]
+
+[k_1]: https://github.com/Kaidul
+
 
 ### Contents
 
-* [Practice Links](#practice)
+* [Practice Links](#practice links)
 * [Articles](#articles)
 * [Algorithms](#algorithms)
 * [Coding](#coding)
