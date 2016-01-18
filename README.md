@@ -27,9 +27,23 @@
 ## Practice Links
 
 * InterViewBit [[link][a_1]]
+* Algo Muse [[link][a_2]]
+* Hard interview questions [[link][a_3]]
+* InterTechTion [[link][a_4]]
+* Careercup questions [[link][a_5]]
+* Codercareer [[link][a_6]]
+* Hackerearth [[link][a_7]]
+* GeeksforGeeks [[link][a_8]]
 
 
 [a_1]: https://www.interviewbit.com/dashboard/
+[a_2]: http://algomuse.appspot.com/
+[a_3]: http://everything2.com/title/hard%2520interview%2520questions
+[a_4]: http://www.intertechtion.com/answers/
+[a_5]: http://www.careercup.com/page
+[a_6]: http://codercareer.blogspot.com/
+[a_7]: https://learn.hackerearth.com/tags/Interview-Question/
+[a_8]: http://www.geeksforgeeks.org/about/interview-corner/
 
 
 ## Articles
@@ -64,9 +78,11 @@ Recommended: Steven Skiena – **The Algorithm Design Manual** [[Amazon][b_tadm_
 * more – **Free Programming Books** (*giant* collection) [[Github][b_fbp]]
 * more – **IT eBooks** [[web][b_ite]]
 * more – **Free Programming Books** [[web][b_fpbcom]]
+* TheShayna [[link][b_1]]
 
 Please support the authors by buying the books.
 
+[b_1]: http://theshayna.com/data-structures-and-algorithms-tutorials/
 [b_clrs_amzn]: http://www.amazon.com/dp/0262033844
 [b_clrs_pdf]: https://www.google.com/search?q=cormen+pdf
 [b_fbp]: https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md
@@ -84,6 +100,7 @@ Please support the authors by buying the books.
 Recommended: **Talentbuddy** [[web][c_tb]] [[free app][c_tb_app]]
 
 * **Coderust** (great selection of problems) [[$10 app][c_cr]]
+* **CodeWar** [[web][c_cw]]
 * **Hacker Rank** [[web][c_hr]]
 * **Interview Cake** [[web][c_ic]]
 * **HackerEarth** [[web][c_he]]
@@ -96,6 +113,7 @@ Recommended: **Talentbuddy** [[web][c_tb]] [[free app][c_tb_app]]
 * more – **Free Programming Resources** [[web][c_fpr]]
 * more - **Web Resources and Tutorials That Don't Suck** [[web][c_p]]
 
+[c_cw]: http://www.codewars.com/
 [c_cr]: http://coderust.com/
 [c_fpr]: http://resrc.io/
 [c_gcj]: https://code.google.com/codejam/contests.html
