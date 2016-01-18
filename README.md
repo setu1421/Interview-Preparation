@@ -1,7 +1,7 @@
-[![Gitter chat](https://badges.gitter.im/andreis/interview.png)](https://gitter.im/andreis/interview)
 
 ### Contents
 
+* [Practice Links](#practice)
 * [Articles](#articles)
 * [Algorithms](#algorithms)
 * [Coding](#coding)
@@ -16,6 +16,15 @@
 * [Unix](#unix)
 * [Videos](#videos)
 * [other repos](#similar-github-repos)
+
+
+
+## Practice Links
+
+* InterViewBit [[link][a_1]]
+
+
+[a_1]: https://www.interviewbit.com/dashboard/
 
 
 ## Articles
