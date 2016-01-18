@@ -77,6 +77,7 @@ Recommended: Steve Yegge – **Get That Job at Google** [[web][a_sy]]
 ### Algo
 
 * [Ideserve](http://www.ideserve.co.in/)
+* [TheShayna](http://theshayna.com/data-structures-and-algorithms-tutorials/)
 
 
 ## Algorithms
@@ -88,11 +89,10 @@ Recommended: Steven Skiena – **The Algorithm Design Manual** [[Amazon][b_tadm_
 * more – **Free Programming Books** (*giant* collection) [[Github][b_fbp]]
 * more – **IT eBooks** [[web][b_ite]]
 * more – **Free Programming Books** [[web][b_fpbcom]]
-* TheShayna [[link][b_1]]
+
 
 Please support the authors by buying the books.
 
-[b_1]: http://theshayna.com/data-structures-and-algorithms-tutorials/
 [b_clrs_amzn]: http://www.amazon.com/dp/0262033844
 [b_clrs_pdf]: https://www.google.com/search?q=cormen+pdf
 [b_fbp]: https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md
