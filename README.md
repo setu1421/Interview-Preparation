@@ -24,6 +24,7 @@
 * [Systems Design](#systems-design)
 * [Unix](#unix)
 * [Videos](#videos)
+* [Miscellaneous](#miscellaneous)
 * [other repos](#similar-github-repos)
 
 
@@ -249,6 +250,12 @@ Recommended: **Candidate Coaching Session: Tech Interviewing** [[Youtube][v_ccs]
 [v_ccs]: http://youtu.be/oWbUtlUhwa8
 [v_gt]: http://youtu.be/qc1owf2-220
 [v_gnt]: http://youtu.be/DINxNbBOEoI
+
+
+## Miscellaneous
+
+* [Library vs. framework vs API?](http://programmers.stackexchange.com/questions/54451/library-vs-framework-vs-api)
+* [Is there still a difference between a library and an API?](http://stackoverflow.com/questions/3678665/is-there-still-a-difference-between-a-library-and-an-api)
 
 ## Similar Github repos
 
