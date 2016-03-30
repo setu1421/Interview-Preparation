@@ -39,6 +39,7 @@
 * Codercareer [[link][a_6]]
 * Hackerearth [[link][a_7]]
 * GeeksforGeeks [[link][a_8]]
+* IndiaBix [[link][a_9]]
 
 
 [a_1]: https://www.interviewbit.com/dashboard/
@@ -49,6 +50,7 @@
 [a_6]: http://codercareer.blogspot.com/
 [a_7]: https://learn.hackerearth.com/tags/Interview-Question/
 [a_8]: http://www.geeksforgeeks.org/about/interview-corner/
+[a_9]: http://www.indiabix.com/computer-science/questions-and-answers/
 
 
 ## Articles
